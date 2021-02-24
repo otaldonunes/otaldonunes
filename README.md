@@ -9,7 +9,7 @@ Autodidata e empreendedor autônomo, desde sempre me aventurei por diversas áre
 
 ## ⚡ Technologies
 
-Technologies I'm learning and developing:
+Technologies that i'm learning and developing:
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
