@@ -24,4 +24,8 @@ Technologies that i'm learning and developing:
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node-dot-js&logoColor=white&style=flat-square)
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python.&logoColor=white&style=flat-square)
 
+## ✉️ Contact-me
+
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white&link=mailto:coletivosuburbano@gmail.com)](mailto:coletivosuburbano@gmail.com)
+
 
