@@ -28,4 +28,6 @@ Technologies that i'm learning and developing:
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white&link=mailto:coletivosuburbano@gmail.com)](mailto:coletivosuburbano@gmail.com)
 
+## 📈 Stats
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=otaldonunes&count_private=true&show_icons=true&theme=radical&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
