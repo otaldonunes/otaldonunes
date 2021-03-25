@@ -6,7 +6,7 @@ Autodidata e empreendedor autônomo, desde sempre me aventurei por diversas áre
 [![Linkedin: otaldonunes](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/otaldonunes)](https://www.linkedin.com/in/otaldonunes)
 [![Twitch: otaldonunes](https://img.shields.io/badge/-Twitch-blueviolet?style=flat-square&logo=Twitch&logoColor=white&link=https://www.twitch.tv/otaldonunes)](https://www.twitch.tv/otaldonunes)
 ![](https://komarev.com/ghpvc/?username=otaldonunes&color=blueviolet&style=flat-square)
-
+<br/>
 ## ⚡ Technologies
 
 Technologies that i'm learning and developing:
@@ -22,12 +22,12 @@ Technologies that i'm learning and developing:
 ![Jest](https://img.shields.io/badge/-Jest-C21325?logo=jest&logoColor=white&style=flat-square)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white&style=flat-square)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node-dot-js&logoColor=white&style=flat-square)
-![Python](https://img.shields.io/badge/-Python-3776AB?logo=python.&logoColor=white&style=flat-square)
-
+![Python](https://img.shields.io/badge/-Python-3776AB?logo=python.&logoColor=white&style=flat-square)<br/>  
+<br/>
 ## ✉️ Contact-me
 
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white&link=mailto:coletivosuburbano@gmail.com)](mailto:coletivosuburbano@gmail.com)
-
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white&link=mailto:coletivosuburbano@gmail.com)](mailto:coletivosuburbano@gmail.com)<br/> 
+<br/>
 ## 📈 Stats
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=otaldonunes&count_private=true&show_icons=true&theme=radical&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
