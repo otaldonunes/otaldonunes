@@ -28,6 +28,7 @@ Technologies that i'm learning and developing:
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![Jest](https://img.shields.io/badge/-Jest-C21325?logo=jest&logoColor=white&style=flat-square)
 ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&style=flat-square&logoColor=black)
+![React Router](https://img.shields.io/badge/-React&nbsp;Router-CA4245?logo=react-router&style=flat-square)
 ![Next.js](https://img.shields.io/badge/-next.js-000000?style=flat-square&logo=next.js&logoColor=white)
 ![Redux](https://img.shields.io/badge/-Redux-764ABC?logo=redux&logoColor=white&style=flat-square)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=Node.js&logoColor=white&style=flat-square)
