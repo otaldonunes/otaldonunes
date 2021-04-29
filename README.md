@@ -20,7 +20,7 @@ Technologies that i'm learning and developing:
 ![Styled Components](https://img.shields.io/badge/-Styled&nbsp;Components-DB7093?style=flat-square&logo=styled-components&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![Jest](https://img.shields.io/badge/-Jest-C21325?logo=jest&logoColor=white&style=flat-square)
 ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&style=flat-square&logoColor=black)
 ![Next.js](https://img.shields.io/badge/-next.js-000000?style=flat-square&logo=next.js&logoColor=white)
