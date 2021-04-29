@@ -22,7 +22,7 @@ Technologies that i'm learning and developing:
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![Jest](https://img.shields.io/badge/-Jest-C21325?logo=jest&logoColor=white&style=flat-square)
-![React](https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&style=flat-square)
+![React](https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&style=flat-square)
 ![Next.js](https://img.shields.io/badge/-next.js-000000?style=flat-square&logo=heroku&logoColor=white)
 ![Redux](https://img.shields.io/badge/-Redux-764ABC?logo=redux&logoColor=white&style=flat-square)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=Node.js&logoColor=white&style=flat-square)
