@@ -77,4 +77,5 @@ Autodidata e empreendedor autônomo, desde sempre me aventurei por diversas áre
 
 ## 📈 Stats
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=otaldonunes&count_private=true&show_icons=true&theme=radical&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+![Stats](https://github-readme-stats.vercel.app/api?username=otaldonunes&count_private=true&show_icons=true&theme=radical&hide_border=true)<br/>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=otaldonunes&layout=compact&theme=radical&hide_border=true&langs_count=6&count_private=true)
