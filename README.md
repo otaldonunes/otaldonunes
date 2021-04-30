@@ -34,7 +34,7 @@ Autodidata e empreendedor autônomo, desde sempre me aventurei por diversas áre
 ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
 ![Redux](https://img.shields.io/badge/-Redux-764ABC?logo=redux&logoColor=white&style=flat-square)
 ![Babel](https://img.shields.io/badge/-Babel-F9DC3E?logo=babel&logoColor=black&style=flat-square)
-![Webpack](https://img.shields.io/badge/-Webpack-8DD6F9?logo=babel&logoColor=black&style=flat-square)
+![Webpack](https://img.shields.io/badge/-Webpack-8DD6F9?logo=webpack&logoColor=black&style=flat-square)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=Node.js&logoColor=white&style=flat-square)
 ![Express](https://img.shields.io/badge/-Express-000000?logo=express&logoColor=white&style=flat-square)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white&style=flat-square)
@@ -49,20 +49,20 @@ Autodidata e empreendedor autônomo, desde sempre me aventurei por diversas áre
 
 ## 📖 Technologies that I intend to learn:
 
-![Amazon AWS](https://img.shields.io/badge/-Amazon&nbsp;AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typeScript&logoColor=white)
 ![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
+![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white)
+![Gatsby](https://img.shields.io/badge/-Gatsby-663399?style=flat-square&logo=gatsby&logoColor=white)
+![Electron](https://img.shields.io/badge/-Electron-47848F?style=flat-square&logo=electron&logoColor=white)
 ![Ant Design](https://img.shields.io/badge/-Ant&nbsp;Design-0170FE?style=flat-square&logo=ant-design&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/-Tailwind&nbsp;CSS-0170FE?style=flat-square&logo=tailwind-css&logoColor=white)
-![Material-UI](https://img.shields.io/badge/-Material-UI-0081CB?style=flat-square&logo=material-ui-css&logoColor=white)
+![Material-UI](https://img.shields.io/badge/-Material-UI-0081CB?style=flat-square&logo=material-ui&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
 ![Cypress](https://img.shields.io/badge/-Cypress-17202C?style=flat-square&logo=cypress&logoColor=white)
-![Electron](https://img.shields.io/badge/-Electron-47848F?style=flat-square&logo=electron&logoColor=white)
 ![Elixir](https://img.shields.io/badge/-Elixir-4B275F?style=flat-square&logo=elixir&logoColor=white)
+![Amazon AWS](https://img.shields.io/badge/-Amazon&nbsp;AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
 ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
-![Gatsby](https://img.shields.io/badge/-Gatsby-663399?style=flat-square&logo=gatsby&logoColor=white)
-![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphQL&logoColor=white)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typeScript&logoColor=white)
-![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white)<br/>
+![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphQL&logoColor=white)<br/>
 
 ## 🔧 Useful skills
 
