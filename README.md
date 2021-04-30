@@ -5,19 +5,19 @@ Autodidata e empreendedor autônomo, desde sempre me aventurei por diversas áre
 
 [![Linkedin: otaldonunes](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/otaldonunes)](https://www.linkedin.com/in/otaldonunes)
 [![Twitch: otaldonunes](https://img.shields.io/badge/-Twitch-blueviolet?style=flat-square&logo=Twitch&logoColor=white&link=https://www.twitch.tv/otaldonunes)](https://www.twitch.tv/otaldonunes)
-![](https://komarev.com/ghpvc/?username=otaldonunes&color=blueviolet&style=flat-square)
+![](https://komarev.com/ghpvc/?username=otaldonunes&color=blueviolet&style=flat-square)<br/>
 
-## ⚡ Technologies
-
-Technologies that i'm learning and developing:
+## ⚡ Technologies that i'm using and developing
 
 ![Linux Mint](https://img.shields.io/badge/-Linux&nbsp;Mint-87CF3E?style=flat-square&logo=linux-mint&logoColor=black)
 ![Slack](https://img.shields.io/badge/-Slack-4A154B?style=flat-square&logo=slack&logoColor=white)
+![Trello](https://img.shields.io/badge/-Trello-0052CC?style=flat-square&logo=trello&logoColor=white)
 ![VSCode](https://img.shields.io/badge/-VSCode-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
 ![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
 ![ESLint](https://img.shields.io/badge/-ESLint-4B32C3?style=flat-square&logo=eslint&logoColor=white)
 ![Stylelint](https://img.shields.io/badge/-Stylelint-263238?style=flat-square&logo=stylelint&logoColor=white)
 ![Prettier](https://img.shields.io/badge/-Prettier-F7B93E?style=flat-square&logo=prettier&logoColor=black)
+![EditorConfig](https://img.shields.io/badge/-EditorConfig-FEFEFE?style=flat-square&logo=editorconfig&logoColor=black)
 ![Airbnb Style Guide](https://img.shields.io/badge/-Airbnb&nbsp;Style&nbsp;Guide-FF5A5F?style=flat-square&logo=airbnb&logoColor=white)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
@@ -26,13 +26,18 @@ Technologies that i'm learning and developing:
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![npm](https://img.shields.io/badge/-npm-CB3837?style=flat-square&logo=npm&logoColor=white)
+![Yarn](https://img.shields.io/badge/-Yarn-2C8EBB?style=flat-square&logo=yarn&logoColor=white)
 ![Jest](https://img.shields.io/badge/-Jest-C21325?logo=jest&logoColor=white&style=flat-square)
 ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&style=flat-square&logoColor=black)
 ![React Router](https://img.shields.io/badge/-React&nbsp;Router-CA4245?logo=react-router&style=flat-square&logoColor=white)
 ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
 ![Redux](https://img.shields.io/badge/-Redux-764ABC?logo=redux&logoColor=white&style=flat-square)
+![Babel](https://img.shields.io/badge/-Babel-F9DC3E?logo=babel&logoColor=black&style=flat-square)
+![Webpack](https://img.shields.io/badge/-Webpack-8DD6F9?logo=babel&logoColor=black&style=flat-square)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=Node.js&logoColor=white&style=flat-square)
 ![Express](https://img.shields.io/badge/-Express-000000?logo=express&logoColor=white&style=flat-square)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white&style=flat-square)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white&style=flat-square)
 ![MySQL](https://img.shields.io/badge/-MySql-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat-square)
@@ -41,6 +46,31 @@ Technologies that i'm learning and developing:
 ![Insomnia](https://img.shields.io/badge/-Insomnia-5849BE?style=flat-square&logo=insomnia&logoColor=white)
 ![Heroku](https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku&logoColor=white)
 ![Netlify](https://img.shields.io/badge/-Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=white)<br/>
+
+## 📖 Technologies that I intend to learn:
+
+![Amazon AWS](https://img.shields.io/badge/-Amazon&nbsp;AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
+![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
+![Ant Design](https://img.shields.io/badge/-Ant&nbsp;Design-0170FE?style=flat-square&logo=ant-design&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/-Tailwind&nbsp;CSS-0170FE?style=flat-square&logo=tailwind-css&logoColor=white)
+![Material-UI](https://img.shields.io/badge/-Material-UI-0081CB?style=flat-square&logo=material-ui-css&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
+![Cypress](https://img.shields.io/badge/-Cypress-17202C?style=flat-square&logo=cypress&logoColor=white)
+![Electron](https://img.shields.io/badge/-Electron-47848F?style=flat-square&logo=electron&logoColor=white)
+![Elixir](https://img.shields.io/badge/-Elixir-4B275F?style=flat-square&logo=elixir&logoColor=white)
+![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+![Gatsby](https://img.shields.io/badge/-Gatsby-663399?style=flat-square&logo=gatsby&logoColor=white)
+![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphQL&logoColor=white)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typeScript&logoColor=white)
+![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white)<br/>
+
+## 🔧 Useful skills
+
+![Adobe Lightroom](https://img.shields.io/badge/-Adobe&nbsp;Lightroom-31A8FF?style=flat-square&logo=adobe-lightroom&logoColor=white)
+![Adobe Premiere Pro](https://img.shields.io/badge/-Adobe&nbsp;Premiere&nbsp;Pro-9999FF?style=flat-square&logo=adobe-premiere-pro&logoColor=black)
+![Adobe Illustrator](https://img.shields.io/badge/-Adobe&nbsp;Illustrator-FF9A00?style=flat-square&logo=adobe-illustrator&logoColor=white)
+![Adobe Photoshop](https://img.shields.io/badge/-Adobe&nbsp;Photoshop-31A8FF?style=flat-square&logo=adobe-photoshop&logoColor=white)
+![Canva](https://img.shields.io/badge/-Canva-00C4CC?style=flat-square&logo=canva&logoColor=white)<br/>
 
 ## ✉️ Contact-me
 
