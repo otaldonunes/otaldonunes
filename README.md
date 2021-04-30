@@ -70,14 +70,6 @@ Autodidata e empreendedor autônomo, desde sempre me aventurei por diversas áre
 ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
 ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphQL&logoColor=white)<br/>
 
-## 🔧 Useful skills
-
-![Adobe Lightroom](https://img.shields.io/badge/-Adobe&nbsp;Lightroom-31A8FF?style=flat-square&logo=adobe-lightroom&logoColor=white)
-![Adobe Premiere Pro](https://img.shields.io/badge/-Adobe&nbsp;Premiere&nbsp;Pro-9999FF?style=flat-square&logo=adobe-premiere-pro&logoColor=black)
-![Adobe Illustrator](https://img.shields.io/badge/-Adobe&nbsp;Illustrator-FF9A00?style=flat-square&logo=adobe-illustrator&logoColor=white)
-![Adobe Photoshop](https://img.shields.io/badge/-Adobe&nbsp;Photoshop-31A8FF?style=flat-square&logo=adobe-photoshop&logoColor=white)
-![Canva](https://img.shields.io/badge/-Canva-00C4CC?style=flat-square&logo=canva&logoColor=white)<br/>
-
 ## ✉️ Contact-me
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white&link=mailto:coletivosuburbano@gmail.com)](mailto:coletivosuburbano@gmail.com)<br/> 
