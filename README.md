@@ -56,7 +56,7 @@ Autodidata e empreendedor autônomo, desde sempre me aventurei por diversas áre
 ![Electron](https://img.shields.io/badge/-Electron-47848F?style=flat-square&logo=electron&logoColor=white)
 ![Ant Design](https://img.shields.io/badge/-Ant&nbsp;Design-0170FE?style=flat-square&logo=ant-design&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/-Tailwind&nbsp;CSS-0170FE?style=flat-square&logo=tailwind-css&logoColor=white)
-![Material-UI](https://img.shields.io/badge/-Material-UI-0081CB?style=flat-square&logo=material-ui&logoColor=white)
+![Material-UI](https://img.shields.io/badge/-Material-UI-0081CB?style=flat-square&logo=material&#8211;ui&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
 ![Cypress](https://img.shields.io/badge/-Cypress-17202C?style=flat-square&logo=cypress&logoColor=white)
 ![Elixir](https://img.shields.io/badge/-Elixir-4B275F?style=flat-square&logo=elixir&logoColor=white)
