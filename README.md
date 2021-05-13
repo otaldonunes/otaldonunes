@@ -45,6 +45,7 @@ Autodidata e empreendedor autônomo, desde sempre me aventurei por diversas áre
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=Node.js&logoColor=white&style=flat-square)
 ![Express](https://img.shields.io/badge/-Express-000000?logo=express&logoColor=white&style=flat-square)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white&style=flat-square)
+![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white&style=flat-square)
 ![MySQL](https://img.shields.io/badge/-MySql-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat-square)
@@ -66,7 +67,6 @@ Autodidata e empreendedor autônomo, desde sempre me aventurei por diversas áre
 ![Cypress](https://img.shields.io/badge/-Cypress-17202C?style=flat-square&logo=cypress&logoColor=white)
 ![Elixir](https://img.shields.io/badge/-Elixir-4B275F?style=flat-square&logo=elixir&logoColor=white)
 ![Amazon AWS](https://img.shields.io/badge/-Amazon&nbsp;AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
-![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
 ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphQL&logoColor=white)<br/>
 
 ## ✉️ Contact-me
