@@ -30,6 +30,8 @@ Autodidata e empreendedor autônomo, desde sempre me aventurei por diversas áre
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 ![Sass](https://img.shields.io/badge/-Sass-CC6699?style=flat-square&logo=sass&logoColor=white)
 ![Styled Components](https://img.shields.io/badge/-Styled&nbsp;Components-DB7093?style=flat-square&logo=styled-components&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/-Tailwind&nbsp;CSS-38B2AC?style=flat-square&logo=tailwindcss&logoColor=white)
+![Chakra UI](https://img.shields.io/badge/-Chakra&nbsp;UI-319795?style=flat-square&logo=chakraui&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
@@ -50,6 +52,7 @@ Autodidata e empreendedor autônomo, desde sempre me aventurei por diversas áre
 ![MySQL](https://img.shields.io/badge/-MySql-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat-square)
 ![JSON](https://img.shields.io/badge/-JSON-000000?style=flat-square&logo=json&logoColor=white)
+![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphQL&logoColor=white)
 ![JWT](https://img.shields.io/badge/-JWT-000000?style=flat-square&logo=json-web-tokens&logoColor=white)
 ![Insomnia](https://img.shields.io/badge/-Insomnia-5849BE?style=flat-square&logo=insomnia&logoColor=white)
 ![Heroku](https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku&logoColor=white)
@@ -66,8 +69,7 @@ Autodidata e empreendedor autônomo, desde sempre me aventurei por diversas áre
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
 ![Cypress](https://img.shields.io/badge/-Cypress-17202C?style=flat-square&logo=cypress&logoColor=white)
 ![Elixir](https://img.shields.io/badge/-Elixir-4B275F?style=flat-square&logo=elixir&logoColor=white)
-![Amazon AWS](https://img.shields.io/badge/-Amazon&nbsp;AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
-![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphQL&logoColor=white)<br/>
+![Amazon AWS](https://img.shields.io/badge/-Amazon&nbsp;AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)<br/>
 
 ## ✉️ Contact-me
 
