@@ -63,8 +63,10 @@ Autodidata e empreendedor autônomo, desde sempre me aventurei por diversas áre
 ## 📖 Technologies that I intend to learn:
 
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typeScript&logoColor=white)
+![React Native](https://img.shields.io/badge/-React&nbsp;Native-61DAFB?logo=react&style=flat-square&logoColor=black)
+![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
 ![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
-![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white)
+![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?style=flat-square&logo=vue-dot-js&logoColor=white)
 ![Gatsby](https://img.shields.io/badge/-Gatsby-663399?style=flat-square&logo=gatsby&logoColor=white)
 ![Electron](https://img.shields.io/badge/-Electron-47848F?style=flat-square&logo=electron&logoColor=white)
 ![Ant Design](https://img.shields.io/badge/-Ant&nbsp;Design-0170FE?style=flat-square&logo=ant-design&logoColor=white)
@@ -75,7 +77,7 @@ Autodidata e empreendedor autônomo, desde sempre me aventurei por diversas áre
 
 ## ✉️ Contact-me
 
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white&link=mailto:coletivosuburbano@gmail.com)](mailto:coletivosuburbano@gmail.com)<br/> 
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white&link=mailto:coletivosuburbano@gmail.com)](mailto:coletivosuburbano@gmail.com)<br/> 
 
 ## 📈 Stats
 
