@@ -77,6 +77,7 @@ Autodidata e empreendedor autônomo, desde sempre me aventurei por diversas áre
 
 ## ✉️ Contact-me
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white&link=www.linkedin.com/in/otaldonunes)](www.linkedin.com/in/otaldonunes)
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white&link=mailto:coletivosuburbano@gmail.com)](mailto:coletivosuburbano@gmail.com)<br/> 
 
 ## 📈 Stats
