@@ -58,7 +58,7 @@ I have knowledge in: Git/GitHub, JavaScript ES6, TypeScript, React, Next.js (SSR
 ![Babel](https://img.shields.io/badge/-Babel-F9DC3E?logo=babel&logoColor=black&style=flat-square)
 ![Webpack](https://img.shields.io/badge/-Webpack-8DD6F9?logo=webpack&logoColor=black&style=flat-square)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=nodedotjs&logoColor=white&style=flat-square)
-![ts-node](https://img.shields.io/badge/-ts&#8211node-3178C6?logo=tsnode&logoColor=white&style=flat-square)
+![ts-node](https://img.shields.io/badge/-ts&ndash;node-3178C6?logo=tsnode&logoColor=white&style=flat-square)
 ![Nodemon](https://img.shields.io/badge/-Nodemon-76D04B?logo=nodemon&logoColor=white&style=flat-square)
 ![Express](https://img.shields.io/badge/-Express-000000?logo=express&logoColor=white&style=flat-square)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white&style=flat-square)
