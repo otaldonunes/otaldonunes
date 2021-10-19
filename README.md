@@ -1,12 +1,16 @@
 <h2 align="center">< Arthur Nunes /></h2>
 <h3 align="center">Full Stack Developer Student at Trybe.</h3>
 
-Autodidata e empreendedor autônomo, desde sempre me aventurei por diversas áreas, buscando acumular conhecimento, experiências, novas vivências e agarrando todas as oportunidades que batiam a minha porta, pude trabalhar durante esses anos como videomaker, fotógrafo, produtor cultural e desenvolvedor web. Atualmente, cursando desenvolvimento web na [Trybe](https://www.betrybe.com).<br/>
+Autodidata e empreendedor autônomo. Desde sempre, aventurei-me por diversas áreas, buscando acumular conhecimento e experiências, novas vivências e agarrando todas as oportunidades que batiam à minha porta. Pude trabalhar durante esses anos como Videomaker, Fotógrafo, Produtor cultural e Estagiário de T.I.. Sou apaixonado por desafios e tecnologia, situações complexas me motivam a buscar formas de solucioná-las de maneira eficiente e criativa.
+
+Possuo conhecimento em: Git/GitHub, JavaScript ES6, TypeScript, React, Next.js (SSR/SSG), NextAuth.js, Webpack, Babel, Context API, React Hook Form, Redux, Sass, Styled Components, TailwindCSS, ChakraUI, Prismic CMS, Stripe, Mirage JS, Axios, React Query, MongoDB, FaunaDB, NodeJS, Express, API RESTful, Deploy, Metodologias ágeis (SCRUM, Git Flow), Inteligência emocional, Comunicação, Colaboração, Pensamento crítico, Criatividade e Liderança.<br/>
 
 <details>
 <summary>English biography</summary><br/>
   
-  Self-taught and a freelance entrepreneur, I have always ventured into several areas, seeking to accumulate knowledge, experiences, new experiences and grabbing all the opportunities that knocked at my door. I could work during these years as a videomaker, photographer, cultural producer and web developer. Currently, I am studying web development at [Trybe](https://www.betrybe.com).
+  Self-taught and a self-employed entrepreneur. Since always, I have ventured into several areas, seeking to accumulate knowledge and experiences, new experiences, and grabbing all the opportunities that knocked at my door. I was able to work during these years as a Videomaker, Photographer, Cultural Producer, and I.T. Intern. I am passionate about challenges and technology, complex situations motivate me to look for ways to solve them in an efficient and creative way.
+
+I have knowledge in: Git/GitHub, JavaScript ES6, TypeScript, React, Next.js (SSR/SSG), NextAuth. js, Webpack, Babel, Context API, React Hook Form, Redux, Sass, Styled Components, TailwindCSS, ChakraUI, Prismic CMS, Stripe, Mirage JS, Axios, React Query, MongoDB, FaunaDB, NodeJS, Express, RESTful API, Deploy, Agile methodologies (SCRUM, Git Flow), Emotional intelligence, Communication, Collaboration, Critical thinking, Creativity and Leadership.
 
 </details>
 
@@ -35,6 +39,7 @@ Autodidata e empreendedor autônomo, desde sempre me aventurei por diversas áre
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typeScript&logoColor=white)
 ![npm](https://img.shields.io/badge/-npm-CB3837?style=flat-square&logo=npm&logoColor=white)
 ![Yarn](https://img.shields.io/badge/-Yarn-2C8EBB?style=flat-square&logo=yarn&logoColor=white)
 ![Jest](https://img.shields.io/badge/-Jest-C21325?logo=jest&logoColor=white&style=flat-square)
@@ -62,16 +67,8 @@ Autodidata e empreendedor autônomo, desde sempre me aventurei por diversas áre
 
 ## 📖 Technologies that I intend to learn:
 
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typeScript&logoColor=white)
 ![React Native](https://img.shields.io/badge/-React&nbsp;Native-61DAFB?logo=react&style=flat-square&logoColor=black)
-![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
-![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
-![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?style=flat-square&logo=vue-dot-js&logoColor=white)
-![Gatsby](https://img.shields.io/badge/-Gatsby-663399?style=flat-square&logo=gatsby&logoColor=white)
 ![Electron](https://img.shields.io/badge/-Electron-47848F?style=flat-square&logo=electron&logoColor=white)
-![Ant Design](https://img.shields.io/badge/-Ant&nbsp;Design-0170FE?style=flat-square&logo=ant-design&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
-![Cypress](https://img.shields.io/badge/-Cypress-17202C?style=flat-square&logo=cypress&logoColor=white)
 ![Elixir](https://img.shields.io/badge/-Elixir-4B275F?style=flat-square&logo=elixir&logoColor=white)
 ![Amazon AWS](https://img.shields.io/badge/-Amazon&nbsp;AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)<br/>
 
