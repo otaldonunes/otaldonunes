@@ -85,7 +85,7 @@ I have knowledge in: Git/GitHub, JavaScript ES6, TypeScript, React, Next.js (SSR
 
 ## ✉️ Contact-me
 
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white&link=mailto:coletivosuburbano@gmail.com)](mailto:coletivosuburbano@gmail.com)<br/> 
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white&link=mailto:contato@otaldonunes.xyz)](mailto:contato@otaldonunes.xyz)<br/> 
 
 ## 📈 Stats
 
