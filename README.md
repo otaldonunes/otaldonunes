@@ -18,7 +18,7 @@ I have knowledge in: Git/GitHub, JavaScript ES6, TypeScript, React, Next.js (SSR
 [![Twitch: otaldonunes](https://img.shields.io/badge/-Twitch-blueviolet?style=flat-square&logo=Twitch&logoColor=white&link=https://www.twitch.tv/otaldonunes)](https://www.twitch.tv/otaldonunes)
 ![](https://komarev.com/ghpvc/?username=otaldonunes&color=blueviolet&style=flat-square)<br/>
 
-## ⚡ Technologies that i'm using and developing
+## ⚡ Technologies that i'm using and developing:
 
 ![Linux Mint](https://img.shields.io/badge/-Linux&nbsp;Mint-87CF3E?style=flat-square&logo=linux-mint&logoColor=black)
 ![Slack](https://img.shields.io/badge/-Slack-4A154B?style=flat-square&logo=slack&logoColor=white)
