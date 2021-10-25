@@ -1,5 +1,5 @@
 <h2 align="center">< Arthur Nunes /></h2>
-<h3 align="center">Full Stack Developer Student at Trybe.</h3>
+<h3 align="center">Full Stack Developer.</h3>
 
 Autodidata e empreendedor autônomo. Desde sempre, aventurei-me por diversas áreas, buscando acumular conhecimento e experiências, novas vivências e agarrando todas as oportunidades que batiam à minha porta. Pude trabalhar durante esses anos como Videomaker, Fotógrafo, Produtor cultural e Estagiário de T.I.. Sou apaixonado por desafios e tecnologia, situações complexas me motivam a buscar formas de solucioná-las de maneira eficiente e criativa.
 
