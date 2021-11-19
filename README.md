@@ -8,7 +8,7 @@ Possuo conhecimento em: Git/GitHub, JavaScript ES6, TypeScript, React, Next.js (
 <details>
 <summary>English biography</summary><br/>
   
-  Self-taught and a self-employed entrepreneur. Since always, I have ventured into several areas, seeking to accumulate knowledge and experiences, new experiences, and grabbing all the opportunities that knocked at my door. I was able to work during these years as a Videomaker, Photographer, Cultural Producer, and I.T. Intern. I am passionate about challenges and technology, complex situations motivate me to look for ways to solve them in an efficient and creative way.
+  Self-taught and a self-employed entrepreneur. Since always, I have ventured into several areas, seeking to accumulate knowledge and experiences, new experiences, and grabbing all the opportunities that knocked at my door. I have worked during these years as a Videomaker, Photographer, Cultural Producer and I.T. Intern. I am passionate about challenges and technology, cryptocurrencies, nfts, blockchain games and in my spare time, I practice judo. Complex situations motivate me to look for ways to solve them in an efficient and creative way.
 
 I have knowledge in: Git/GitHub, JavaScript ES6, TypeScript, React, Next.js (SSR/SSG), NextAuth. js, Webpack, Babel, Context API, React Hook Form, Redux, Sass, Styled Components, TailwindCSS, ChakraUI, Prismic CMS, Stripe, Mirage JS, Axios, React Query, MongoDB, FaunaDB, NodeJS, Express, RESTful API, Deploy, Agile methodologies (SCRUM, Git Flow), Emotional intelligence, Communication, Collaboration, Critical thinking, Creativity and Leadership.
 
